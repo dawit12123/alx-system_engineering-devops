@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "alx-system-engineering-devops"
+echo "pwd"
