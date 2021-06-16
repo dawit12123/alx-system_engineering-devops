@@ -1,2 +1,2 @@
-!#/bin/bash
 This is project for bash
+for alias
